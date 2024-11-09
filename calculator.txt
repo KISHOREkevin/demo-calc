@@ -1,2 +1,3 @@
 Calculator app :
 addition , subtraction -> implemented
+mulitiplication,division -> implemented
